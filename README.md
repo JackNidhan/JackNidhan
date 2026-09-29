@@ -75,4 +75,4 @@ Do I seem like an intriguing fellow? Perhaps. But in reality, I'm just a plain o
 Interest seemingly piqued and looking to connect? You can find my profile at linkedin.com/in/jacknidhan
 
 
->> Still learning, still building, still breaking things. All in the name of curiosity!
+## Still learning, still building, still breaking things. All in the name of curiosity!
